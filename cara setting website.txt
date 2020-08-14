@@ -1,0 +1,8 @@
+cara setting db
+-nama project di htdocs-> xampp "rsberliankasih"
+-import db ke phpmyadmin dengan nama "rsberliankasih"
+*jika settingan phpmyadmin pake password maka isi password yang ada di database.php
+**jika tidak menggunakan password pada phpmyadmin, bisa akses langsung
+
+-untuk setting database.php di folder config 
+	-application->config->database.php
